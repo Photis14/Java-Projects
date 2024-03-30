@@ -1,7 +1,6 @@
 # Java Projects Collection
 
-This repository contains a wide array of Java projects, showcasing various programming concepts, data structures, and algorithms. The projects are divided into basic Java programming practices and more advanced data structures and algorithms implementations. Whether you're new to Java or looking to refresh on some advanced topics, this collection has something to offer.
-
+This repository contains a wide array of Java projects, showcasing various programming concepts, data structures, and algorithms. The projects are divided into basic Java programming practices and more advanced data structures and algorithms implementations.
 ## Table of Contents
 
 - [Introduction](#introduction)

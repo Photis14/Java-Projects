@@ -36,6 +36,7 @@ Clone this repository to your local machine, navigate to any project folder, and
 ```bash
 javac FileName.java
 java FileName
+```
 
 ## Projects Overview
 

@@ -44,16 +44,16 @@ java FileName
 
 These projects cover fundamental programming concepts in Java, including but not limited to:
 
-- **Arrays Java**: Manipulations and algorithms using arrays.
-- **Classes Java**: Object-oriented programming basics.
-- **Loops Java**: Demonstrations of looping structures.
-- **Geometry Java**: Simple geometric calculations and algorithms.
+- **Arrays**: Manipulations and algorithms using arrays.
+- **Classes**: Object-oriented programming basics.
+- **Loops**: Demonstrations of looping structures.
+- **Geometry**: Simple geometric calculations and algorithms.
 
 ### Data Structures and Algorithms
 
 A selection of projects demonstrating various data structures and their applications, as well as common algorithms:
 
-- **DSA Arrays, LinkedLists, Trees, Graphs**: Implementation and manipulation of basic and advanced data structures.
-- **DSA Stacks, Queues**: Usage and implementation of stacks and queues.
-- **DSA BinarySearchTree, BinaryTree check**: Tree-based data structures and algorithms.
-- **DSA Algorithms**: Sorting, searching, and other algorithm implementations.
+- **Arrays, LinkedLists, Trees, Graphs**: Implementation and manipulation of basic and advanced data structures.
+- **Stacks, Queues**: Usage and implementation of stacks and queues.
+- **BinarySearchTree, BinaryTree check**: Tree-based data structures and algorithms.
+- **Algorithms**: Sorting, searching, and other algorithm implementations.

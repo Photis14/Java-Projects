@@ -1,0 +1,10 @@
+Compexity order (Big O)
+1. O(1)
+2. O(2^n)
+3. O(2^n)
+
+2.
+a) O(1)
+b) O(nlogn)
+c) O(o^5)
+d) O(logn)
